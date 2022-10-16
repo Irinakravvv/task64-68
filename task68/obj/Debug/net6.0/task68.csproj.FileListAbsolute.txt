@@ -1,0 +1,15 @@
+C:\projects\Языки программирования\Seminar9\task68\bin\Debug\net6.0\task68.exe
+C:\projects\Языки программирования\Seminar9\task68\bin\Debug\net6.0\task68.deps.json
+C:\projects\Языки программирования\Seminar9\task68\bin\Debug\net6.0\task68.runtimeconfig.json
+C:\projects\Языки программирования\Seminar9\task68\bin\Debug\net6.0\task68.dll
+C:\projects\Языки программирования\Seminar9\task68\bin\Debug\net6.0\task68.pdb
+C:\projects\Языки программирования\Seminar9\task68\obj\Debug\net6.0\task68.csproj.AssemblyReference.cache
+C:\projects\Языки программирования\Seminar9\task68\obj\Debug\net6.0\task68.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\Языки программирования\Seminar9\task68\obj\Debug\net6.0\task68.AssemblyInfoInputs.cache
+C:\projects\Языки программирования\Seminar9\task68\obj\Debug\net6.0\task68.AssemblyInfo.cs
+C:\projects\Языки программирования\Seminar9\task68\obj\Debug\net6.0\task68.csproj.CoreCompileInputs.cache
+C:\projects\Языки программирования\Seminar9\task68\obj\Debug\net6.0\task68.dll
+C:\projects\Языки программирования\Seminar9\task68\obj\Debug\net6.0\refint\task68.dll
+C:\projects\Языки программирования\Seminar9\task68\obj\Debug\net6.0\task68.pdb
+C:\projects\Языки программирования\Seminar9\task68\obj\Debug\net6.0\task68.genruntimeconfig.cache
+C:\projects\Языки программирования\Seminar9\task68\obj\Debug\net6.0\ref\task68.dll
